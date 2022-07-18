@@ -22,7 +22,7 @@ When working on a project, before merging your updates, you can let other contri
 
 There are many tools that can be used for source code management and versioning. Follow the below steps to create a pull request using GitHub:  
 
-. Go to link:https://github.com/[GitHub.coml^], log into your account and navigate to the main page of the repository.
+. Go to link:https://github.com/[GitHub.com^], log into your account and navigate to the main page of the repository.
 . Click the *Fork* button to create a remote repository on your Git account. Then, click *Clone or download* to clone the forked repository on your computer.
 . From the command line, type the `git clone` command, input the repository link, and press *Enter*. A local copy of the repository is created.
 . On the repository main page, go to the *Branch* menu and select the branch that includes your updates.
