@@ -31,7 +31,7 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 You can easily use your WhatsApp client on a web browser without installing the desktop application. 
 Connect your mobile application to a web browser by following the below steps:
 
-. Open your web browser and access link:https://web.whatsapp.com[WhatsApp Webl^]. A web page with a QR code is displayed.
+. Open your web browser and access link:https://web.whatsapp.com[WhatsApp Web^]. A web page with a QR code is displayed.
 . In your mobile app, click the *Settings* button. The Settings page opens.
 . Click the *Linked Devices* option. The Linked Devices page opens.
 . Click the *Link a Device* button. The mobile camera opens.
