@@ -1,0 +1,43 @@
+= Challenge 1
+
+Your first challenge awaits! 
+
+In this challenge, we want to get an idea of your writing style as it relates to software and computer technology.
+
+== Instructions
+
+. Choose any software or application that you use regularly.
+. Write instructions on how to perform a common task related to the software or application.
+
+.Example please?
+****
+Some ideas to get you started:
+
+* Sending an attachment in link:https://signal.org/[Signal^].
+* Forwarding an email with link:https://www.google.com/gmail/about/[Gmail^].
+* Publishing a blog post with link:https://wordpress.com/[Wordpress^].
+* Adding an extension to link:https://code.visualstudio.com/[Visual Studio Code^].
+* Taking a screenshot with an link:https://www.apple.com/iphone/[iPhone^].
+****
+
+TIP: Keep the task concise. There's no need to over-complicate the instructions.
+
+== Answer
+
+// your answer goes here
+
+== Connecting to WhatsApp Web
+
+You can easily use your WhatsApp client on a web browser without installing the desktop application. 
+Connect your mobile application to a web browser by following the below steps:
+
+. Open your web browser and access link:https://web.whatsapp.com[WhatsApp Webl^]. A web page with a QR code is displayed.
+. In your mobile app, click the *Settings* button. The Settings page opens.
+. Click the *Linked Devices* option. The Linked Devices page opens.
+. Click the *Link a Device* button. The mobile camera opens.
+. Point your mobile camera at the QR code displayed at step 1. 
+. Click *OK*. Your WhatsApp client connects to the web browser and mirrors the conversations from your mobile.
+
+There is a maximum number of four web browsers that can be linked at the same time. To log out from a web browser, tap the device and select the *Log Out* option. 
+
+NOTE: WhatsApp Web supports the latest web browser versions of Chrome, Firefox, Microsoft Edge, Safari, and Opera. Internet Explorer is not supported. 

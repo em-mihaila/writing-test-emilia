@@ -1,0 +1,34 @@
+= Challenge 2
+
+Your second challenge awaits! 
+
+In this challenge, we want to see how comfortable you are explaining a technical topic.
+
+Your audience is someone technical, but new to link:https://en.wikipedia.org/wiki/Version_control[version control^].
+
+== Instructions
+
+. Explain what a merge request/pull request is.
+. Give examples on how to use it.
+
+== Answer
+
+// your answer goes here
+
+== Creating a Pull Request
+
+Version control systems are tools that manage and track changes to source code, documents, and other project files. These tools are most useful in software engineering. They help DevOps teams create individual branches for each contributor. This way, they have a clear history of code changes and can also prevent conflicts when merging multiple updates on the same files.
+When working on a project, before merging your updates, you can let other contributors know about the changes made by creating a pull request. A pull request is a way of requesting to merge your changes with the remote repository. As code changes need to be approved before merging upstream, a pull request also submits your work to the main repository for others to review.
+
+There are many tools that can be used for source code management and versioning. Follow the below steps to create a pull request using GitHub:  
+
+. Go to link:https://github.com/[GitHub.coml^], log into your account and navigate to the main page of the repository.
+. Click the *Fork* button to create a remote repository on your Git account. Then, click *Clone or download* to clone the forked repository on your computer.
+. From the command line, type the `git clone` command, input the repository link, and press *Enter*. A local copy of the repository is created.
+. On the repository main page, go to the *Branch* menu and select the branch that includes your updates.
+. Click the *Contribute* button above the list of files and select *Open pull request*.
+. On the _base branch_ drop-down menu, select the branch to merge your changes into. Then, on the _compare branch_ drop-down menu, select the topic branch you made your changes in.
+. Add a title and description for your pull request.
+. Click *Create Pull Request*. Your changes are now ready for review in a new pull request. 
+
+NOTE: You can also create a draft pull request by selecting *Create Pull Request*, then *Create Draft Pull Request*. Draft pull requests can be submitted for early review, but cannot be merged into the target repository.
